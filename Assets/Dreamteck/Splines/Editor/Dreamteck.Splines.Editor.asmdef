@@ -1,0 +1,37 @@
+{
+    "name": "Dreamteck.Splines.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2fdef4a859838e3449b625605ab13c25",
+        "GUID:fcf26afa24f209f48995057e40e2e83e",
+        "GUID:feb8a022138f9bc4584c00f7817a9433"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android",
+        "CloudRendering",
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "iOS",
+        "LinuxStandalone64",
+        "Lumin",
+        "macOSStandalone",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
