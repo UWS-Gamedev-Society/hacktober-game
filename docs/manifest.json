@@ -1,0 +1,992 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/UnityProjects/_Prototypes/Devilo/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.BaseElementalEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.BaseElementalEffect.html",
+          "hash": "HizTpawj6/FBVdtFQQYnmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.CharacterData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.CharacterData.html",
+          "hash": "27+mA5NGIRRM1nTmKNSUHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Container.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Container.html",
+          "hash": "WJdit6FvZrv7e6SA/n20zQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.ElementalEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.ElementalEffect.html",
+          "hash": "qA7BltrLqcAH2dG/kw6RtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.EquipmentItem.EquipmentSlot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.EquipmentItem.EquipmentSlot.html",
+          "hash": "7zFKyY1l5psyb8kYnW1uxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.EquipmentItem.EquippedEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.EquipmentItem.EquippedEffect.html",
+          "hash": "HoY/h1Gej65ilhEv9oBYbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.EquipmentItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.EquipmentItem.html",
+          "hash": "3OpNovaNUQ+NaAk/2HUABw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.EquipmentSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.EquipmentSystem.html",
+          "hash": "FOAetkhzy8kj5amaa7mZ+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Helpers.html",
+          "hash": "0FQ9yvLrCVEKdGLkzcsLzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.HighlightableObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.HighlightableObject.html",
+          "hash": "duvOu8pRZEKsxMNyRA6UyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.InteractableObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.InteractableObject.html",
+          "hash": "nFypGpwWGq/1Q/8stEVzzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.InventorySystem.InventoryEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.InventorySystem.InventoryEntry.html",
+          "hash": "qP4VYIFlPsjFAfoB4e3PyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.InventorySystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.InventorySystem.html",
+          "hash": "zJua8YRZ/WcdGsZiH19Q+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Item.html",
+          "hash": "4aI76VvoDd6u1e8Bkg3j8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Loot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Loot.html",
+          "hash": "NFgxVQl09Ejgf4WP4qnkMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.LootSpawner.LootEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.LootSpawner.LootEntry.html",
+          "hash": "YvND80nhOqgjjwA8vZGm5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.LootSpawner.SpawnEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.LootSpawner.SpawnEvent.html",
+          "hash": "qqWNlAgcE2ygruKYjw0g2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.LootSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.LootSpawner.html",
+          "hash": "SffQY8KvLDEn0KxomVX0DQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.SFXManager.PlayData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.SFXManager.PlayData.html",
+          "hash": "EHSbkK9hSdwRIRdNP/hUog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.SFXManager.Use.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.SFXManager.Use.html",
+          "hash": "i0bfvkYZNz1kd8fMJ/YGQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.SFXManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.SFXManager.html",
+          "hash": "K5pHQDnW6lRN0g659Nk9sA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.SpawnPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.SpawnPoint.html",
+          "hash": "jWEg+lLGcVnsEFgtZ8Q+Og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.StatSystem.DamageType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.StatSystem.DamageType.html",
+          "hash": "GqL8ritd1d7FTMJU+SjuAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.StatSystem.StatModifier.Mode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.StatSystem.StatModifier.Mode.html",
+          "hash": "0+CohS7pRGucOwRQFMcSug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.StatSystem.StatModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.StatSystem.StatModifier.html",
+          "hash": "+eHevb543DwUwI1/iU5A+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.StatSystem.Stats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.StatSystem.Stats.html",
+          "hash": "Hq+U/12RW7IbehDcYLDMEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.StatSystem.TimedStatModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.StatSystem.TimedStatModifier.html",
+          "hash": "2xO+pz7CcldX8mkvrnZh/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.StatSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.StatSystem.html",
+          "hash": "ZoZCJ0qkr6olQnYW/1DxyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.UsableItem.UsageEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.UsableItem.UsageEffect.html",
+          "hash": "9BuC64uAAG6JCUQvmID2dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.UsableItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.UsableItem.html",
+          "hash": "cjpK29Rt1/8qduk/jdcg5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.VFXDatabase.VFXDBEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.VFXDatabase.VFXDBEntry.html",
+          "hash": "kU/FOAL8DM/jomEJUOFR1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.VFXDatabase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.VFXDatabase.html",
+          "hash": "KCNVmyGJy/Ec5ynrXfumhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.VFXManager.VFXInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.VFXManager.VFXInstance.html",
+          "hash": "7P72v9g7kRIjWY7XPLobGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.VFXManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.VFXManager.html",
+          "hash": "rcJiygE9xE7Fk5ltsjyLeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Weapon.AttackData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Weapon.AttackData.html",
+          "hash": "AmDDR84c3ymWtzKphJRY7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Weapon.Stat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Weapon.Stat.html",
+          "hash": "eWBaR/VCtYDM4ZYB6Qx3KQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Weapon.WeaponAttackEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Weapon.WeaponAttackEffect.html",
+          "hash": "aj3v4I+3pB1S+s+JbZdOCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.Weapon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.Weapon.html",
+          "hash": "ngGR+CSOF7vqkPSIzT6p0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCode.html",
+          "hash": "Dbk4wrH8C6qUOS9RWt/dYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.AmbiencePlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.AmbiencePlayer.html",
+          "hash": "LJ77+s7dlQMHXdvBmyDuGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.AnimationControllerDispatcher.IAttackFrameReceiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.AnimationControllerDispatcher.IAttackFrameReceiver.html",
+          "hash": "HB1VQtOWzIdniwiS1vNXUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.AnimationControllerDispatcher.IFootstepFrameReceiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.AnimationControllerDispatcher.IFootstepFrameReceiver.html",
+          "hash": "69oSocq2qpsDpJleocJkPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.AnimationControllerDispatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.AnimationControllerDispatcher.html",
+          "hash": "PJ/wNo0AHKEw0yOybNrzdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.AttackState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.AttackState.html",
+          "hash": "WUsy4b93iVcwdDZsVw6MTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.BreakableObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.BreakableObject.html",
+          "hash": "yWQjSHpZgC4CjA2LadVQIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.CameraController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.CameraController.html",
+          "hash": "u67jScgG8HT5b7RxHd11aQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.CharacterAudio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.CharacterAudio.html",
+          "hash": "zbck+72+DmlysI24MjNBBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.CharacterControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.CharacterControl.html",
+          "hash": "onrRJZsEzNymL5AjxjYtWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.DamageUI.ActiveText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.DamageUI.ActiveText.html",
+          "hash": "Gj+0K8Pkn2m3/V4dLhY3rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.DamageUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.DamageUI.html",
+          "hash": "BAKcuPw8CVK934LWJX94yQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.EffectIconUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.EffectIconUI.html",
+          "hash": "FadXDWkjW+YyJVQPBuZ4lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.EquipmentUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.EquipmentUI.html",
+          "hash": "HDMMPAmGTA7OAuREE6pmWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.InventoryCharacterRender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.InventoryCharacterRender.html",
+          "hash": "NfgiWZ45uiI3tfXyqW38xQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.InventoryUI.DragData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.InventoryUI.DragData.html",
+          "hash": "2dPGf8wy0k+DyleYDaZQrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.InventoryUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.InventoryUI.html",
+          "hash": "omAQ3PxO/gZAsUsXQWXiEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.ItemEntryUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.ItemEntryUI.html",
+          "hash": "EuTR4nhfIg/B2H/ezbfSOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.ItemTooltip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.ItemTooltip.html",
+          "hash": "hP706Q70V9GpVwLwrmSwFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.LootUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.LootUI.html",
+          "hash": "egfNYIaZo68CjCBWmuTi7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.RandomBGMPlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.RandomBGMPlayer.html",
+          "hash": "6M/zyvOBOjYzjiCdKmyWFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.RandomLoopOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.RandomLoopOffset.html",
+          "hash": "Iq06CGByKzvkA7C+myYS7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.ResourceManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.ResourceManager.html",
+          "hash": "lgJDjn17uD6TGGH+HtVOtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.SceneLinkedSMB-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.SceneLinkedSMB-1.html",
+          "hash": "8eyRpgJUubEHNS7EGtIjWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.SimpleEnemyController.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.SimpleEnemyController.State.html",
+          "hash": "Xb+Qe9SMkQzcM15E63a3kA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.SimpleEnemyController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.SimpleEnemyController.html",
+          "hash": "gFj8CxnEfeuIYXDP1GBg2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.TrainingDummy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.TrainingDummy.html",
+          "hash": "8ky33diJF7qLWDungAduZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.UIAlphaRaycast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.UIAlphaRaycast.html",
+          "hash": "WYodepx1wdkPQ/ljFbUdJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.UISystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.UISystem.html",
+          "hash": "FoD6xAsNCAmBhMg5cjLT6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CreatorKitCodeInternal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CreatorKitCodeInternal.html",
+          "hash": "Fz1EwUahfAMwRv4wrsadzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "8r8SVMKTMCYA/pM93hqtMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/apidocsample.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/apidocsample.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/createequipment.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/createequipment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/createitem.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/createitem.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/createweapon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/createweapon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/equipmentinspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/equipmentinspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/usableiteminspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/usableiteminspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/weaponinspector.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/weaponinspector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "sFdAodjpzHXxuOTKc3qa9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because docfx version changed from 2.43.3.0 to 2.44.0.0.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "DocfxVersionChanged"
+      },
+      "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 68,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
