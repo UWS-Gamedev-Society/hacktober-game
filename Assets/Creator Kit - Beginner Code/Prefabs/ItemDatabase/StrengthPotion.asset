@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6984867618541205173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fbf22fb12a16954e9228b1426669275, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Description: Add 5 Strength for 10 Seconds
+  Duration: 10
+  StrengthChange: 5
+  EffectSprite: {fileID: 21300000, guid: 0e048954ff684ea4bb775a9845653428, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 328cd29feea7c9e448f98552a0eebdd2, type: 3}
+  m_Name: StrengthPotion
+  m_EditorClassIdentifier: 
+  ItemName: Strength Potion
+  ItemSprite: {fileID: 21300000, guid: 0e048954ff684ea4bb775a9845653428, type: 3}
+  Description: 
+  WorldObjectPrefab: {fileID: 3613217881743831505, guid: 916d205a860f50a408084e75d5221c73,
+    type: 3}
+  UsageEffects:
+  - {fileID: -6984867618541205173}

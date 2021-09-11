@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a96cf71494313b42b0e2459b8aa90d2, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  ItemName: Ellen's Staff
+  ItemSprite: {fileID: 21300000, guid: 4ebe3495b584a3f47bb652e3c90d7480, type: 3}
+  Description: That thing hums with energy and seems almost magical
+  WorldObjectPrefab: {fileID: 5482170467533448303, guid: 56ca1676619f33d48b134bb4a8b721c8,
+    type: 3}
+  Slot: 666
+  MinimumStats:
+    health: 0
+    strength: 0
+    defense: 0
+    agility: 0
+    elementalProtection: 00000000000000000000000000000000
+    elementalBoosts: 00000000000000000000000000000000
+  EquippedEffects: []
+  HitSounds: []
+  SwingSounds: []
+  Stats:
+    Speed: 0.5
+    MinimumDamage: 15
+    MaximumDamage: 20
+    MaxRange: 2
+  AttackEffects: []

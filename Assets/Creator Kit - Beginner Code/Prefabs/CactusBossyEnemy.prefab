@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5667712714323555562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5667712714323555575}
+  - component: {fileID: 5667712714323555560}
+  - component: {fileID: 5667712714323555561}
+  - component: {fileID: 5667712714323555574}
+  - component: {fileID: 5667712714323555573}
+  - component: {fileID: 1514832715870360197}
+  m_Layer: 11
+  m_Name: CactusBossyEnemy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5667712714323555575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667712714323555562}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 20.715477, y: -0.59, z: 12.48468}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7115517772539934473}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!195 &5667712714323555560
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667712714323555562}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 1
+  m_Acceleration: 999
+  avoidancePriority: 50
+  m_AngularSpeed: 360
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!65 &5667712714323555561
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667712714323555562}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.2982216, y: 3.9280415, z: 1.719141}
+  m_Center: {x: 0.13493729, y: 1.9740207, z: 0.110500336}
+--- !u!114 &5667712714323555574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667712714323555562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a6d32986edb697438a2746b08746dd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Speed: 1
+  detectionRadius: 15
+  SpottedAudioClip:
+  - {fileID: 8300000, guid: dd476a688160f3443bd22d95179cb003, type: 3}
+  - {fileID: 8300000, guid: 93e57f37c3c562345a1d6dea723d4a71, type: 3}
+  - {fileID: 8300000, guid: a7473e133f9782b498a577f9b93f7e6f, type: 3}
+--- !u!114 &5667712714323555573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667712714323555562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45ba4cd943b6c745bb32ca76b631cff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CharacterName: Cactus Bossy
+  Stats:
+    baseStats:
+      health: 60
+      strength: 5
+      defense: 2
+      agility: 0
+      elementalProtection: 00000000000000000000000000000000
+      elementalBoosts: 00000000000000000000000000000000
+  StartingWeapon: {fileID: 11400000, guid: 52b81e917921cad46997064d7acebe12, type: 2}
+  HitClip:
+  - {fileID: 8300000, guid: 52bbf808b3d93fb4f861009f0d06498b, type: 3}
+  - {fileID: 8300000, guid: a2b0c466fe3cda84da5a4a1f58ae2f07, type: 3}
+  - {fileID: 8300000, guid: a8594e4675d2b1049a71204ba41705d8, type: 3}
+--- !u!114 &1514832715870360197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5667712714323555562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ebaeb8c6b9527f47b54aecef149ed2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FootstepClips:
+  - {fileID: 8300000, guid: ef5caaaf43d61fc439d6a714819a05fe, type: 3}
+  - {fileID: 8300000, guid: b8abec50233ac97419381e9459999a9a, type: 3}
+  VocalAttack:
+  - {fileID: 8300000, guid: e96f8c1d2460b964d85fd201d9871b02, type: 3}
+  - {fileID: 8300000, guid: 0d0ebf1b50554e8449d72cad42070dae, type: 3}
+  - {fileID: 8300000, guid: 0d0ebf1b50554e8449d72cad42070dae, type: 3}
+  VocalHit:
+  - {fileID: 8300000, guid: 1000a372c865df245a64a5ad8cfe09f7, type: 3}
+  - {fileID: 8300000, guid: d0ed10d2b3380794baa61396a9870a0c, type: 3}
+  - {fileID: 8300000, guid: 861e3224eb2444640a456fc774eb104d, type: 3}
+  - {fileID: 8300000, guid: 5096df85b9b7d5e4084729db410c043b, type: 3}
+  DeathClips:
+  - {fileID: 8300000, guid: ab415396b033067448e7d08899293927, type: 3}
+  - {fileID: 8300000, guid: 6989802e6d350bd4882572e8d2f9f24c, type: 3}
+  UseType: 1
+--- !u!114 &7104680573333993254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6117080637132129562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3d267ff6fabdc4e8b9a091ba04c8df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AttackFrameReceiver: {fileID: 5667712714323555574}
+  FootstepFrameReceiver: {fileID: 5667712714323555574}
+--- !u!1001 &2865927052972858387
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5667712714323555575}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_Name
+      value: CactusBossy
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.083
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 12cccdbdde79c9f41aed34774772de1c, type: 2}
+    - target: {fileID: -9029778509527700621, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -9029778509527700621, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fde76a69d35a4d24cabd1cecea52cb40, type: 2}
+    - target: {fileID: -9029778509527700621, guid: 51ed1a96caabdfb43a94013d75c97f28,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9ad4c3bb7eb7de94b8bf8199a2e3f133, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 51ed1a96caabdfb43a94013d75c97f28, type: 3}
+--- !u!1 &6117080637132129562 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 51ed1a96caabdfb43a94013d75c97f28,
+    type: 3}
+  m_PrefabInstance: {fileID: 2865927052972858387}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7115517772539934473 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 51ed1a96caabdfb43a94013d75c97f28,
+    type: 3}
+  m_PrefabInstance: {fileID: 2865927052972858387}
+  m_PrefabAsset: {fileID: 0}

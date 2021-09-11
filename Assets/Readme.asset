@@ -12,39 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
   m_Name: Readme
   m_EditorClassIdentifier: 
-  icon: {fileID: 2800000, guid: 7801804018a7dcf42abb827444e18660, type: 3}
-  title: Universal Render Pipeline Template
+  icon: {fileID: 2800000, guid: d9139a2683873cb4cb5e86cb4fcf0670, type: 3}
+  title: 'Creator Kit: Beginner Code'
   sections:
-  - heading: Universal Render Pipeline
-    text: 'The Universal Project Template configures Project settings for Projects where performance, wide platform support, and ease of customizing graphics are the primary considerations.'
+  - heading: What is a Creator Kit?
+    text: 'Creator Kits are short step-by-step tutorials which enable beginners to
+      gain a good understanding of Unity in around an hour. This Beginner Code kit
+      introduces you to the fundamentals of code; from understanding how to read a
+      script to creating your own variables and adjusting this top down action RPG. '
     linkText: 
     url: 
-  - heading:
-    text: 'This Template uses the Universal Render Pipeline (URP) and Shader Graph.'
-    linkText: 
-    url: 
-  - heading:
-    text: 'URP is prebuilt Scriptable Render Pipeline that is quick and easy to customize, and lets you create optimized graphics across a wide range of platforms. URP also includes an optimized 2D renderer complete with 2D lights and pixel perfect rendering, and an integrated post-processing solution.'
-    linkText: 
-    url: 
-  - heading:
-    text: 'Shader Graph is a tool that allows you to create shaders using a visual node editor instead of writing code.'
-    linkText: 
-    url: 
-  - heading: 
-    text: 'This template contains a sample Scene that contains examples of how to configure lighting settings, Materials, Shaders, and post-processing effects in URP, several preconfigured Universal Render Pipeline Assets that let you quickly swap between graphics quality levels, and Presets that have been optimized for use with URP.'
-    linkText:
-    url:
-  - heading: 
-    text: 'This template contains a sample Scene that contains examples of how to configure lighting settings, Materials, Shaders, and post-processing effects in URP, several preconfigured Universal Render Pipeline Assets that let you quickly swap between graphics quality levels, and Presets that have been optimized for use with URP.'
-    linkText:
-    url:
-  - heading: 
-    text: 'To read more about URP and its built-in features, see the '
-    linkText: URP documentation.
-    url: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@latest/index.html
-  - heading: 
-    text: 'For more information about Shader Graph, see the '
-    linkText: Shader Graph documentation
-    url: https://docs.unity3d.com/Packages/com.unity.shadergraph@latest
+  - heading: How do I use it?
+    text: We've written detailed tutorials that explore the project step by step.
+      You can find them on our Learn site.
+    linkText: Follow the tutorials
+    url: https://learn.unity.com/project/creator-kit-beginner-code
+  - heading: Got feedback?
+    text: Let us know what you think or ask any questions you might have on our forum.
+    linkText: Forum Thread
+    url: https://forum.unity.com/threads/creator-kit-beginner-code.732398/
   loadedLayout: 1

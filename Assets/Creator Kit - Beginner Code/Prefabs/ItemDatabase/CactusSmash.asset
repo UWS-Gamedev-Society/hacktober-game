@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a96cf71494313b42b0e2459b8aa90d2, type: 3}
+  m_Name: CactusSmash
+  m_EditorClassIdentifier: 
+  ItemName: 
+  ItemSprite: {fileID: 0}
+  Description: 
+  WorldObjectPrefab: {fileID: 0}
+  Slot: 666
+  MinimumStrength: 0
+  MinimumAgility: 0
+  MinimumDefense: 0
+  EquippedEffects: []
+  HitSounds: []
+  SwingSounds:
+  - {fileID: 8300000, guid: 6d3a84948efc13b4899a25de57f2dec9, type: 3}
+  Stats:
+    Speed: 4
+    MinimumDamage: 10
+    MaximumDamage: 15
+    MaxRange: 4
+  AttackEffects: []
