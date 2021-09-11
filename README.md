@@ -52,7 +52,14 @@ This rule is a creative limitation to make the game a bit more interesting. Not 
 
 <details>
   <summary><b>Tools you'll need</b></summary>
-  
+
++ [Unity 2021.1.20f1](https://unity3d.com/get-unity/download?thank-you=update&download_nid=65137&os=Win)
+  + You should be able to install the engine through [Unity Hub](https://unity3d.com/get-unity/download)
++ [Visual Studio Community](https://visualstudio.microsoft.com/vs/unity-tools/) (recommended) OR [Visual Studio Code](https://code.visualstudio.com/docs/other/unity) OR [Rider](https://www.jetbrains.com/lp/dotnet-unity/)
+  + I guess this is optional if you don't plan to code at all.
++ [GitHub Desktop](https://desktop.github.com/)
+  + This is optional if you're already an expert git user!
+
 </details>
 
 # Contributing
