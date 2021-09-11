@@ -13,9 +13,11 @@ With the [Games Development Society](https://www.uwsunion.org.uk/society/uwsgams
 
 #### Learning Outcomes
 
-+ Learn the ropes of Game Development with the Unity Engine
++ Learn the ropes of Game Development with the [Unity Engine](https://unity.com/)
 + Using GitHub to contribute to an [open-source](https://en.wikipedia.org/wiki/Open_source) project
 + Communicate and coordinate with others to come up with ideas and foster those ideas into actual gameplay elements
+
+Speaking of communicating, join our [Discord Server](https://discord.gg/bHnteaj)! Talk or ask about this project, find other people in your course, or find out anything UWS related!
 
 ## Getting started
 
