@@ -1,3 +1,5 @@
+[![The UWS Games Development Society Banner](./docs/images/gamedevsoc.jpg "The UWS Games Development Society Banner")](https://www.uwsunion.org.uk/society/uwsgamsedevsociety/)
+
 # hacktober-game
 
 <p float="left">
@@ -6,8 +8,6 @@
 </p>
 
 The project contains some asset packages and tools to help you get started quicker. It also contains Unity's **Creator Kit: Beginner Code** package, which provides a framework that helps beginners get creating, coding, and designing! If you want, you can dive right in and create your first [Pull Request](./compare), or follow along with the [Tutorial](https://learn.unity.com/tutorial/get-started-with-creator-kit-beginner-code) provided! Whether you're a beginner or an expert, You should check out the documentation for the framework, which you can find [here](https://uws-gamedev-society.github.io/hacktober-game/).
-
-![The UWS Games Development Society Banner](./docs/images/gamedevsoc.jpg "The UWS Games Development Society Banner")
 
 With the [Games Development Society](https://www.uwsunion.org.uk/society/uwsgamsedevsociety/) being an educational society and all, we do have some learning outcomes for this project. First and foremost, we want this to be a collaborative project where anyone can contribute and learn the ropes of game development. By the end of the project, you'll have hopefully learned some of the following.
 
