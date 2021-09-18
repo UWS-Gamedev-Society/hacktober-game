@@ -2,10 +2,9 @@
 
 # hacktober-game
 
-<p float="left">
-  <img src="./docs/images/hacktoberfest21-h.svg" width="16" height="16" />
-  This is the repository hosting the UWS <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest 2021</a> Collaborative Game Project.
-</p>
+<h3 float="left">
+  This is the repository hosting the UWS<a href="https://hacktoberfest.digitalocean.com/" target="_blank"> <img src="./docs/images/hacktoberfest21-h.svg" width="16" height="16" />acktoberfest 2021</a> Collaborative Game Project.
+</h3>
 
 The project contains some asset packages and tools to help you get started quicker. It also contains Unity's **Creator Kit: Beginner Code** package, which provides a framework that helps beginners get creating, coding, and designing! If you want, you can dive right in and create your first [Pull Request](./compare), or follow along with the [Tutorial](https://learn.unity.com/tutorial/get-started-with-creator-kit-beginner-code) provided! Whether you're a beginner or an expert, You should check out the documentation for the framework, which you can find [here](https://uws-gamedev-society.github.io/hacktober-game/).
 
