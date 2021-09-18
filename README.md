@@ -30,13 +30,10 @@ Speaking of communicating, join our [Discord Server](https://discord.gg/bHnteaj)
 
 + Genre: **Puzzle**
   + The genre defines the overarching "type" of game that we want to create.
-
 + Setting: **Utopia**
   + The setting tells the player the overall style of the game in terms of time period, architecture, and environment.
-
 + Theme: **Pursuit**
   + The theme is the main characteristic or definition of the game. Not everything in the game needs to be considered with the theme in mind. However, the more things are, the more consistent the game will be!
-
 + Creative Rule: **Don't Stop Moving**
   + This rule is a creative limitation to make the game a bit more interesting. Not everything in the game needs to be made to follow this rule, but the main gameplay elements should be considered with this rule in mind.
   
