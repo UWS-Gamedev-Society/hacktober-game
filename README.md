@@ -1,4 +1,4 @@
-[![The UWS Games Development Society Banner](./docs/images/gamedevsoc.jpg "The UWS Games Development Society Banner")](https://www.uwsunion.org.uk/society/uwsgamsedevsociety/)
+[![The UWS Games Development Society Banner](./docs/images/gamedevsoc.png "The UWS Games Development Society Banner")](https://www.uwsunion.org.uk/society/uwsgamsedevsociety/)
 
 # hacktober-game
 
